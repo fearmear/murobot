@@ -10,13 +10,10 @@ console.log('hello, world!')
 // Chaos Castle
 // Illusion Temple
 // All Rewards
-// Elite Monsters hunt
+// Praise Statue
+// Elite Monsters hunt 
 
 // TODO:
-// Blood Castle
-// Craft BC/DS tickets
-// Exchange
-// Devil Square
 // Free Epic Chest ?? Repeat
 // Free Pet ?? Repeat
 // EXP Dungeon
@@ -28,11 +25,17 @@ console.log('hello, world!')
 // Buy potions task
 // Dissasemble task
 // Colosseum (30m + use teleport? + dissasemble loop)
+// Handle no ingredients case on craft
+// Map Navigation
 
 // Scheduling
 // Persistance
 
 // ADVANCED:
+// Handle Death Scenario
+// Auto-Collect Arena Reward
+// Auto-Craft Fruits
+// Auto-Craft BC/DS tickets
 // Angel Temple
 // Chaos Castle
 // Illusion Temple
@@ -51,3 +54,4 @@ console.log('hello, world!')
 // Boss Castle?
 
 // Resizable window
+// Emulator independant?

@@ -42,6 +42,66 @@
             "outFiles": []
         },
         {
+            "name": "Craft Blood Castle Cloak",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/lib/craftBloodCastleCloak.js",
+            "stopOnEntry": false,
+            "args": ["0"],
+            "cwd": "${workspaceRoot}",
+            "preLaunchTask": null,
+            "runtimeExecutable": null,
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "console": "internalConsole",
+            "sourceMaps": false,
+            "outFiles": []
+        },
+        {
+            "name": "Craft Devil Square Ticket",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/lib/craftDevilSquareTicket.js",
+            "stopOnEntry": false,
+            "args": ["1"],
+            "cwd": "${workspaceRoot}",
+            "preLaunchTask": null,
+            "runtimeExecutable": null,
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "console": "internalConsole",
+            "sourceMaps": false,
+            "outFiles": []
+        },
+        {
+            "name": "Craft Fruit",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/lib/craftFruit.js",
+            "stopOnEntry": false,
+            "args": ["1"],
+            "cwd": "${workspaceRoot}",
+            "preLaunchTask": null,
+            "runtimeExecutable": null,
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "console": "internalConsole",
+            "sourceMaps": false,
+            "outFiles": []
+        },
+        {
             "name": "Attach",
             "type": "node",
             "request": "attach",
