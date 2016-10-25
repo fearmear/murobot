@@ -14,12 +14,12 @@ console.log('hello, world!')
 // Elite Monsters hunt 
 
 // TODO:
+// Arena Cheer
 // Free Epic Chest ?? Repeat
 // Free Pet ?? Repeat
 // EXP Dungeon
 // Zen Dungeon
 // Collect Arena Reward
-// Arena Cheer
 // Daily Quest (1h)
 // Target Quest (1h)
 // Buy potions task
