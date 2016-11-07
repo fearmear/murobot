@@ -6,8 +6,8 @@ console.log('hello, world!')
 // node colosseum.js
 
 // MANUAL (ATM):
-// Target/Daily
 // Clear inventory
+// Target Quest
 // Arena
 // Kalima, Corps, Lab
 // Crystal Mine
@@ -22,10 +22,14 @@ console.log('hello, world!')
 // Aether
 
 // TODO:
-// Improve Target/Daily quest task
+// Target Quest
+// Kalima
+// Corps
 // Daily Rewards
 // Free Epic Chest ?? Repeat
 // Free Pet ?? Repeat
+// EXP Dungeon Clear Detection ?? Color
+// Improve rating cheer (cheer top 10 on the same list)
 
 // Scheduling
 
@@ -33,25 +37,19 @@ console.log('hello, world!')
 // Persistance
 // Handle no ingredients case on craft
 // Handle Death Scenario
-// Auto-Collect Arena Reward
+// Specific time to Collect Arena Reward
 // Auto-Craft Fruits
 // Auto-Craft BC/DS tickets
-// Kalima
-// Corps
 // Angel Temple
 // Chaos Castle
 // Illusion Temple
 // Insufficient Potion Detection
-// Daily Quest Clear Detection
-// Target Quest Clear Detection
-// EXP Dungeon Clear Detection ?? Color
 // Arena
 // Auto-clear inventory
 // Blood Castle Statue
 // Golden Forces
 // World Boss
 // Boss Castle?
-// Full Map Navigation
 // Lab
 
 // Resizable window

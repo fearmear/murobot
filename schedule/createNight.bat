@@ -9,4 +9,5 @@ schtasks /create /xml "windows-tasks\night\DS-4.xml" /TN "MU Robot\DS-4"
 schtasks /create /xml "windows-tasks\night\Colosseum.xml" /TN "MU Robot\Colosseum"
 schtasks /create /xml "windows-tasks\night\EXP(x3)+ZEN.xml" /TN "MU Robot\EXP(x3)+ZEN"
 schtasks /create /xml "windows-tasks\night\Collect.xml" /TN "MU Robot\Collect"
+schtasks /create /xml "windows-tasks\night\DailyTargetQuests.xml"  /TN "MU Robot\DailyTargetQuests"
 pause
