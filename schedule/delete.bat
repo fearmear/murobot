@@ -1,0 +1,12 @@
+schtasks /delete /TN "MU Robot\BC-1" /f
+schtasks /delete /TN "MU Robot\DS-1" /f
+schtasks /delete /TN "MU Robot\BC-2" /f
+schtasks /delete /TN "MU Robot\DS-2" /f
+schtasks /delete /TN "MU Robot\BC-3" /f
+schtasks /delete /TN "MU Robot\DS-3" /f
+schtasks /delete /TN "MU Robot\BC-4" /f
+schtasks /delete /TN "MU Robot\DS-4" /f
+schtasks /delete /TN "MU Robot\Colosseum" /f
+schtasks /delete /TN "MU Robot\EXP(x3)+ZEN" /f
+schtasks /delete /TN "MU Robot\Collect" /f
+schtasks /delete /TN "MU Robot\DailyTargetQuests" /f

@@ -1,0 +1,1 @@
+node D:\dev\murobot\lib\collectArenaRewards.js && node D:\dev\murobot\lib\exchange.js && node D:\dev\murobot\lib\exchange.js && node D:\dev\murobot\lib\meditation.js && node D:\dev\murobot\lib\rankingCheer.js && node D:\dev\murobot\lib\endlessTower.js && node D:\dev\murobot\lib\storyDungeon.js

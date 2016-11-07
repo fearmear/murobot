@@ -1,7 +1,12 @@
 #!/usr/bin/env node
 console.log('hello, world!')
 
+// node collectArenaRewards.js && node exchange.js && node exchange.js && node meditation.js && node rankingCheer.js && node endlessTower.js && node storyDungeon.js
+// node expDungeon.js && node expDungeon.js && node expDungeon.js && node zenDungeon.js
+// node colosseum.js
+
 // MANUAL (ATM):
+// Target/Daily
 // Clear inventory
 // Arena
 // Kalima, Corps, Lab
@@ -11,31 +16,28 @@ console.log('hello, world!')
 // Illusion Temple
 // All Rewards
 // Praise Statue
-// Elite Monsters hunt 
+// Elite Monsters hunt
+// Free Epic Chest
+// Free Pet
+// Aether
 
 // TODO:
-// Arena Cheer
+// Improve Target/Daily quest task
+// Daily Rewards
 // Free Epic Chest ?? Repeat
 // Free Pet ?? Repeat
-// EXP Dungeon
-// Zen Dungeon
-// Collect Arena Reward
-// Daily Quest (1h)
-// Target Quest (1h)
-// Buy potions task
-// Dissasemble task
-// Colosseum (30m + use teleport? + dissasemble loop)
-// Handle no ingredients case on craft
-// Map Navigation
 
 // Scheduling
-// Persistance
 
 // ADVANCED:
+// Persistance
+// Handle no ingredients case on craft
 // Handle Death Scenario
 // Auto-Collect Arena Reward
 // Auto-Craft Fruits
 // Auto-Craft BC/DS tickets
+// Kalima
+// Corps
 // Angel Temple
 // Chaos Castle
 // Illusion Temple
@@ -43,15 +45,14 @@ console.log('hello, world!')
 // Daily Quest Clear Detection
 // Target Quest Clear Detection
 // EXP Dungeon Clear Detection ?? Color
-// Kalima
-// Corps
-// Lab
 // Arena
 // Auto-clear inventory
 // Blood Castle Statue
 // Golden Forces
 // World Boss
 // Boss Castle?
+// Full Map Navigation
+// Lab
 
 // Resizable window
 // Emulator independant?
