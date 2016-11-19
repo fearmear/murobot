@@ -1,13 +1,12 @@
-schtasks /create /xml "windows-tasks\night\BC-1.xml" /TN "MU Robot\BC-1"
-schtasks /create /xml "windows-tasks\night\DS-1.xml" /TN "MU Robot\DS-1"
-schtasks /create /xml "windows-tasks\night\BC-2.xml" /TN "MU Robot\BC-2"
-schtasks /create /xml "windows-tasks\night\DS-2.xml" /TN "MU Robot\DS-2"
-schtasks /create /xml "windows-tasks\night\BC-3.xml" /TN "MU Robot\BC-3"
-schtasks /create /xml "windows-tasks\night\DS-3.xml" /TN "MU Robot\DS-3"
-schtasks /create /xml "windows-tasks\night\BC-4.xml" /TN "MU Robot\BC-4"
-schtasks /create /xml "windows-tasks\night\DS-4.xml" /TN "MU Robot\DS-4"
-schtasks /create /xml "windows-tasks\night\Colosseum.xml" /TN "MU Robot\Colosseum"
-schtasks /create /xml "windows-tasks\night\EXP(x3)+ZEN.xml" /TN "MU Robot\EXP(x3)+ZEN"
-schtasks /create /xml "windows-tasks\night\Collect.xml" /TN "MU Robot\Collect"
-schtasks /create /xml "windows-tasks\night\DailyTargetQuests.xml"  /TN "MU Robot\DailyTargetQuests"
+schtasks /create /tn "MU Robot\BC-1" /tr "node D:\dev\murobot\lib\bloodCastle.js" /sc DAILY /st 03:31
+schtasks /create /tn "MU Robot\DS-1" /tr "node D:\dev\murobot\lib\devilSquare.js" /sc DAILY /st 03:46
+schtasks /create /tn "MU Robot\BC-2" /tr "node D:\dev\murobot\lib\bloodCastle.js" /sc DAILY /st 04:01
+schtasks /create /tn "MU Robot\DS-2" /tr "node D:\dev\murobot\lib\devilSquare.js" /sc DAILY /st 04:16
+schtasks /create /tn "MU Robot\BC-3" /tr "node D:\dev\murobot\lib\bloodCastle.js" /sc DAILY /st 04:31
+schtasks /create /tn "MU Robot\DS-3" /tr "node D:\dev\murobot\lib\devilSquare.js" /sc DAILY /st 04:46
+schtasks /create /tn "MU Robot\BC-4" /tr "node D:\dev\murobot\lib\bloodCastle.js" /sc DAILY /st 05:01
+schtasks /create /tn "MU Robot\DS-4" /tr "node D:\dev\murobot\lib\devilSquare.js" /sc DAILY /st 05:16
+schtasks /create /tn "MU Robot\BC-5" /tr "node D:\dev\murobot\lib\bloodCastle.js" /sc DAILY /st 05:31
+schtasks /create /tn "MU Robot\DS-5" /tr "node D:\dev\murobot\lib\devilSquare.js" /sc DAILY /st 05:46
+schtasks /create /tn "MU Robot\Other" /tr D:\dev\murobot\schedule\run\other.bat /sc DAILY /st 06:00
 pause

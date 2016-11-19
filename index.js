@@ -1,39 +1,31 @@
 #!/usr/bin/env node
 console.log('hello, world!')
 
-// node collectArenaRewards.js && node exchange.js && node exchange.js && node meditation.js && node rankingCheer.js && node endlessTower.js && node storyDungeon.js
-// node expDungeon.js && node expDungeon.js && node expDungeon.js && node zenDungeon.js
-// node colosseum.js
-
 // MANUAL (ATM):
 // Clear inventory
-// Target Quest
 // Arena
-// Kalima, Corps, Lab
+// Lab
 // Crystal Mine
-// Angel Temple
-// Chaos Castle
-// Illusion Temple
 // All Rewards
 // Praise Statue
 // Elite Monsters hunt
-// Free Epic Chest
-// Free Pet
-// Aether
+// Fruits/Aether/Wings/Zodiac/Enchance/Option Enchance/Seed Enchance
+// Look for a pet on Auction
+// Spend Bound diamonds
+
+// Angel Temple
+// Chaos Castle
+// Illusion Temple
 
 // TODO:
-// Target Quest
-// Kalima
-// Corps
-// Daily Rewards
-// Free Epic Chest ?? Repeat
-// Free Pet ?? Repeat
-// EXP Dungeon Clear Detection ?? Color
-// Improve rating cheer (cheer top 10 on the same list)
+// Free Pet
+// Free Epic Chest
 
-// Scheduling
+// Daily Rewards (last activity)
+// Wings Upgrade
 
 // ADVANCED:
+// Zodiac Upgrade?
 // Persistance
 // Handle no ingredients case on craft
 // Handle Death Scenario
@@ -50,6 +42,7 @@ console.log('hello, world!')
 // Golden Forces
 // World Boss
 // Boss Castle?
+// Gold Lair?
 // Lab
 
 // Resizable window
