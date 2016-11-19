@@ -1,3 +1,4 @@
+schtasks /delete /tn "MU Robot\Meditation" /f
 schtasks /delete /tn "MU Robot\BC-1" /f
 schtasks /delete /tn "MU Robot\DS-1" /f
 schtasks /delete /tn "MU Robot\BC-2" /f
@@ -8,4 +9,4 @@ schtasks /delete /tn "MU Robot\BC-4" /f
 schtasks /delete /tn "MU Robot\DS-4" /f
 schtasks /delete /tn "MU Robot\BC-5" /f
 schtasks /delete /tn "MU Robot\DS-5" /f
-schtasks /delete /tn "MU Robot\Other" /f
+schtasks /delete /tn "MU Robot\Queue" /f
