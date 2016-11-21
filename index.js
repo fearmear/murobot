@@ -5,7 +5,6 @@ console.log('hello, world!')
 // Clear inventory
 // Arena
 // Lab
-// Crystal Mine
 // All Rewards
 // Praise Statue
 // Elite Monsters hunt
@@ -18,9 +17,6 @@ console.log('hello, world!')
 // Illusion Temple
 
 // TODO:
-// Free Pet
-// Free Epic Chest
-
 // Daily Rewards (last activity)
 // Wings Upgrade
 
